@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "data": {
+    "bankName": "BNI",
+    "bankNumber": "12345",
+    "passport": "12345",
+    "winterGearUsd": 12345,
+    "budgetUsageIdr": 12345,
+    "diemIdr": 12345,
+    "diemUsd": 12345,
+    "ticket": 12345,
+    "transport": 12345,
+    "hotel": 12345,
+    "rental": 12345,
+    "visa": 12345,
+    "insurance": 12345,
+    "grandTotalIdr": 12345,
+    "budget": 12345,
+    "budgetRemaining": 12345
+  }
+}

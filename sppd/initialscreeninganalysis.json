@@ -1,0 +1,11 @@
+{
+  "data": {
+    "totalScore": 5,
+    "resiko": "Rendah",
+    "indikator": [
+      "Indikator 1",
+      "Indikator 2"
+    ],
+    "message": "Silahkan melaksanakan perjalanan dinas dengan berhati-hati dan tetap memperhatikan protokol Kesehatan. Terima Kasih."
+  }
+}

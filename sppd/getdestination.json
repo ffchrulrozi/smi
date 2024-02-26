@@ -1,0 +1,32 @@
+{
+    "data": {
+      "from_city": [
+        {
+          "id": "1",
+          "text": "purpose 1"
+        },
+        {
+          "id": "2",
+          "text": "purpose 2"
+        },
+        {
+          "id": "3",
+          "text": "purpose 3"
+        }
+      ],
+      "to_city": [
+        {
+          "id": "1",
+          "text": "purpose 1"
+        },
+        {
+          "id": "2",
+          "text": "purpose 2"
+        },
+        {
+          "id": "3",
+          "text": "purpose 3"
+        }
+      ]
+    }
+  }

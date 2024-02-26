@@ -1,0 +1,94 @@
+{
+    "data": {
+      "travel_purpose": [
+        {
+          "id": "1",
+          "text": "purpose 1"
+        },
+        {
+          "id": "2",
+          "text": "purpose 2"
+        },
+        {
+          "id": "3",
+          "text": "purpose 3"
+        }
+      ],
+      "transport_to": [
+        {
+          "id": "1",
+          "text": "Transport 1"
+        },
+        {
+          "id": "2",
+          "text": "Transport 2"
+        },
+        {
+          "id": "3",
+          "text": "Transport 3"
+        }
+      ],
+      "lastChoice": {
+        "travelPurpose": {
+          "id": 1
+        },
+        "transportFrom": {
+          "id": "1"
+        },
+        "transportTo": {
+          "id": "1"
+        },
+        "naturalAccount": {
+          "id": "1",
+          "data": [
+            {
+              "code": "1",
+              "name": "natural account 1"
+            },
+            {
+              "code": "2",
+              "name": "natural account 2"
+            },
+            {
+              "code": "3",
+              "name": "natural account 3"
+            }
+          ]
+        },
+        "costCenter": {
+          "id": 1,
+          "data": [
+            {
+              "code": "1",
+              "name": "cost center 1"
+            },
+            {
+              "code": "2",
+              "name": "cost center 2"
+            },
+            {
+              "code": "3",
+              "name": "cost center 3"
+            }
+          ]
+        },
+        "bebanDebitur": {
+          "data": [
+            {
+              "code": "1",
+              "name": "debitur 1"
+            },
+            {
+              "code": "2",
+              "name": "debitur 2"
+            },
+            {
+              "code": "3",
+              "name": "debitur 3"
+            }
+          ]
+        },
+        "travelPurposeDesc": "ini desc"
+      }
+    }
+  }
